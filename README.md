@@ -108,18 +108,4 @@ This will delete the ECS cluster, ALB, security groups, IAM roles, and other ass
 
 ---
 
-## 📌 Notes
-
-- Default **VPC**, **subnets**, and **security groups** are used.
-- Ensure your **ECR repo** and **task definition** match.
-- If the deployment fails, check logs using:
-  ```sh
-  aws ecs describe-tasks --cluster restapi --tasks <task-id>
-  ```
-
----
-
-## 📜 License
-
-This project is **MIT Licensed**.
 
