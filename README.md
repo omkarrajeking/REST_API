@@ -21,7 +21,7 @@ Ensure you have the following installed on your machine:
 
 ```sh
 git clone https://github.com/your-repo-name.git
-cd terraform-ecs
+cd terraform
 ```
 
 ### 2️⃣ Authenticate AWS CLI
