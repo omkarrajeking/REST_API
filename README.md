@@ -1,4 +1,5 @@
 # AWS ECS Fargate Deployment with Terraform
+![image](https://github.com/user-attachments/assets/27e87c52-2c14-40eb-83db-1216c4d54645)
 
 
 
