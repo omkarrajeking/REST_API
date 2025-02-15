@@ -21,7 +21,7 @@ Ensure you have the following installed on your machine:
 ### 1️⃣ Clone the Repository
 
 ```sh
-git clone [https://github.com/your-repo-name.git](https://github.com/omkarrajeking/REST_API.git)
+git clone https://github.com/omkarrajeking/REST_API.git
 cd terraform
 ```
 
