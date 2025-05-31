@@ -11,7 +11,7 @@ agent any
                 sshagent (credentials: ['git']) {
                     script {
                         // sh '''
-                        //   mkdir -p ~/.ssh
+                        //   mkdir -p ~/.ssh   1234567
                         //   ssh-keyscan github.com >> ~/.ssh/known_hosts
                         //     '''
 
